@@ -1,0 +1,21 @@
+.div1{
+    background-color:#0f42ce; width: 200px; height: 220px;
+}
+.div2{
+    width: 130px;
+    height: 130px;
+    background-color: rgb(202, 110, 214);
+}
+.div3{
+    background-color: rgb(225, 233, 109);
+    width: 45%;
+    height: 40vh;
+}
+.div4{
+    background-color: rgb(219, 59, 59);
+    width: 25vh;
+    height: 32%;
+}
+p{
+    color: rgb(36, 32, 32); background-color: rgb(194, 182, 72); font-size: 25px; font-family: 'Times New Roman', Times, serif;
+}
